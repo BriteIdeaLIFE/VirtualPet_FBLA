@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="Introduction to Programming.pdf" />
+  </Folder>
   <Project Path="VirtualPetApp.Tests/VirtualPetApp.Tests.csproj" />
   <Project Path="VirtualPetApp/VirtualPetApp.csproj" />
 </Solution>
