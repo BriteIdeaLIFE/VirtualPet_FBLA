@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\VirtualPet_FBLA\VirtualPetApp.csproj" />
+    <ProjectReference Include="..\VirtualPetApp\VirtualPetApp.csproj" />
   </ItemGroup>
 
   <ItemGroup>
