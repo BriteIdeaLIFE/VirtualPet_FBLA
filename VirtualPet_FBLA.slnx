@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="VirtualPetApp.Tests/VirtualPetApp.Tests.csproj" />
+  <Project Path="VirtualPet_FBLA/VirtualPet_FBLA.csproj" />
+</Solution>

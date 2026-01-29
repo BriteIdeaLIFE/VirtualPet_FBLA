@@ -1,0 +1,40 @@
+{
+  "Pet": {
+    "Name": "Marty",
+    "Type": "Dog",
+    "Hunger": 5,
+    "Energy": 84,
+    "Cleanliness": 94,
+    "Happiness": 93,
+    "Health": 94,
+    "Mood": "Happy"
+  },
+  "TotalSpent": 30,
+  "Purchases": [
+    {
+      "Item": "Healthy Meal",
+      "Cost": 6,
+      "WhenUtc": "2026-01-29T02:26:23.8835951Z"
+    },
+    {
+      "Item": "Full Bath",
+      "Cost": 6,
+      "WhenUtc": "2026-01-29T02:26:51.2366161Z"
+    },
+    {
+      "Item": "Full Bath",
+      "Cost": 6,
+      "WhenUtc": "2026-01-29T02:31:20.4120585Z"
+    },
+    {
+      "Item": "Healthy Meal",
+      "Cost": 6,
+      "WhenUtc": "2026-01-29T02:31:38.0059894Z"
+    },
+    {
+      "Item": "Healthy Meal",
+      "Cost": 6,
+      "WhenUtc": "2026-01-29T02:32:21.691456Z"
+    }
+  ]
+}
